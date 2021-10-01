@@ -48,4 +48,8 @@ This repo has list of topics that i have covered in C# and roadmap.
 
 ## Web Application using ASP.NET
 - MVC architecture pattern
-- 
+- Controllers
+- Actions
+- Routing
+- Views
+- View Modals
