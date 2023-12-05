@@ -87,3 +87,9 @@ This repo has list of topics that i have covered in C# and roadmap.
 ### Base Keyword:
 
 ![BaseKeyword](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/Screenshot%202023-12-01%20at%2012.35.35%20pm.png)
+
+
+Delegates and Generics Example:
+Generics is defining type of each item of a list
+Delegates is setting data type of input and output of a function
+![generics](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/Screenshot%202023-12-05%20at%2011.17.16%20am.png)
