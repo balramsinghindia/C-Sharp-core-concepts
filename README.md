@@ -93,3 +93,7 @@ Delegates and Generics Example:
 Generics is defining type of each item of a list
 Delegates is setting data type of input and output of a function
 ![generics](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/Screenshot%202023-12-05%20at%2011.17.16%20am.png)
+
+
+### LinQ
+![LinQ](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/Screenshot%202023-12-06%20at%2011.26.54%20am.png)
